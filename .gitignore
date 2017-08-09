@@ -101,3 +101,7 @@ ENV/
 
 # vim
 *.swp
+
+# programming contest input and output files
+*.in
+*.out
